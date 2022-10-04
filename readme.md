@@ -10,7 +10,7 @@ Aqui ficarão meus dois projetos e suas respectivas bases de dados
 * [video]()
 
 
-### Projeto 2
+### Projeto 2 (ainda não terminei, perdão)
 * [Colab]()
 * [Dataset](https://drive.google.com/drive/folders/1Xw9-uMM_saHUHRrNYDw9d7BKuEbrdgxc?usp=sharing)
 * [Dataset 2](https://drive.google.com/drive/folders/13PGHwNgEHbrhRNRKJW4B-R7xibrg3FdG?usp=sharing)
